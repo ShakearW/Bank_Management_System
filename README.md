@@ -17,11 +17,11 @@ The structure of this project is:
 
 ## Java Libraries
 These are the libraries that were used throughout this project:
-- 'javax.swing.*'
-- 'java.awt.*'
-- 'java.awt.event.*'
-- 'java.sql.*'
-- 'java.util.*'
+- `javax.swing.*`
+- `java.awt.*`
+- `java.awt.event.*`
+- `java.sql.*`
+- `java.util.*`
 
 ## Requirements
 These are tools or files need to run this project be sure to download them:
