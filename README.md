@@ -24,7 +24,7 @@ These are the libraries that were used throughout this project:
 - `java.util.*`
 
 ## Requirements
-These are tools or files need to run this project be sure to download them:
+These are tools or files needed to run this project, be sure to download them:
 - Java
 - Apache Netbeans(IDE)
 - MySQL Workbench
