@@ -1,21 +1,18 @@
-## Bank Managment System Project
-
+# 🏦 Bank Management System Project
 ---
-## Project Info
+## 📋 Project Info
+- 🧑‍💻 Type of Project: Individual Project
+- ☕ Languages: Java
+- 🎯 Purpose: Data management and Java study
 
-- Type of Project: Individual Project
-- Languages: Java
-- Purpose: Data management and Java study
-
-
-## Overview
+## 🗂️ Overview
 The structure of this project is:
-- Interactive UI/UX
-- Real-time date updates with accurate query execution
-- API connectivity with a MySQL databases
-- Object-oriented design for streamlined class structure
+- 🖥️ Interactive UI/UX
+- 🕐 Real-time date updates with accurate query execution
+- 🔗 API connectivity with a MySQL database
+- 🏗️ Object-oriented design for streamlined class structure
 
-## Java Libraries
+## 📚 Java Libraries
 These are the libraries that were used throughout this project:
 - `javax.swing.*`
 - `java.awt.*`
@@ -23,11 +20,11 @@ These are the libraries that were used throughout this project:
 - `java.sql.*`
 - `java.util.*`
 
-## Requirements
+## ⚙️ Requirements
 These are tools or files needed to run this project, be sure to download them:
-- Java
-- Apache Netbeans(IDE)
-- MySQL Workbench
-- VS Code for extensions
-- mysql-connector-j-9.7.0.jar
-- JCalendar-1.4.jar
+- ☕ Java
+- 🪶 Apache NetBeans (IDE)
+- 🐬 MySQL Workbench
+- 💻 VS Code for extensions
+- 📦 mysql-connector-j-9.7.0.jar
+- 📅 JCalendar-1.4.jar
