@@ -6,7 +6,7 @@
 - 🎯 Purpose: Data management and Java study
 
 ## 🗂️ Overview
-Project: This Bank Management System is a Java-based desktop application designed to model secure, high-integrity financial operations. Applying a MySQL relational database, the backend handles complex business logic including user registration, transaction histories, and data validation. 
+This Bank Management System is a Java-based desktop application designed to model secure, high-integrity financial operations. Applying a MySQL relational database, the backend handles complex business logic including user registration, transaction histories, and data validation. 
 
 The structure of this project is:
 - 🖥️ Interactive UI/UX
